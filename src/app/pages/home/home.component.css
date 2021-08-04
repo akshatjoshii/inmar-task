@@ -1,0 +1,11 @@
+.jumbotron{
+  background-color: aliceblue;
+}
+.completed-checkbox{
+  width: 20px;
+  height: 20px;
+}
+.badge-success{
+  color: #fff;
+  background-color: #28a745;
+}
